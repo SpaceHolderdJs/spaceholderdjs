@@ -2,12 +2,6 @@
 
 ###
 
-<div align="center">
-  <img height="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
-</div>
-
-###
-
 <br clear="both">
 
 <div align="center">
