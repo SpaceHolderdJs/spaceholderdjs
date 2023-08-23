@@ -1,10 +1,10 @@
 <br clear="both">
 
-<img align="left" height="235" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
+<img align="left" height="240" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
 
 ###
 
-<h1 align="left">‎<br> Igor Sergienko [web dev since 2k19]<br> ‎<br>  <br>‎</h1>
+<h1 align="center">‎<br> ‎‎Igor Sergienko [web dev since 2k19]<br> ‎<br>  <br>‎</h1>
 
 ###
 
