@@ -2,9 +2,13 @@
 
 ###
 
-<img align="left" height="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
+<div align="center">
+  <img height="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
+</div>
 
 ###
+
+<br clear="both">
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=spaceholderdjs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="150" alt="languages graph"  />
