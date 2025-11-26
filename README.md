@@ -1,75 +1,277 @@
-<h1 align="center">‎‎Igor Sergienko [web dev since 2k19]</h1>
+<h1 align="center">👋 Igor Sergienko</h1>
+<h3 align="center">Full Stack Web Developer | Building Digital Experiences Since 2019</h3>
 
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=spaceholderdjs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=spaceholderdjs&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=spaceholderdjs&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="40" alt="electron logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="40" alt="eslint logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="40" alt="heroku logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handlebars/handlebars-original.svg" height="40" alt="handlebars logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" alt="socketio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="40" alt="webpack logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-</div>
-
-###
-
-<p align="left">‎<br>Welcome to my GitHub corner! 👋 As a passionate and experienced Fullstack Web Developer with over 4 years of dedicated expertise, I thrive on turning imaginative concepts into captivating digital realities. 🚀<br><br>🌐 Frontend Sorcerer:<br>With a keen eye for design and an insatiable curiosity for the latest front-end technologies, I wield modern web frameworks such as React, Next.js, and Angular to shape intuitive and visually stunning user interfaces. From responsive layouts that adapt seamlessly to any device, to immersive web applications that breathe life into ideas, I'm your go-to magician for all things frontend.<br><br>💻 Backend Architect:<br>Behind every outstanding frontend experience lies a robust backend foundation. I'm well-versed in crafting server-side logic, managing databases, and building APIs that power dynamic web applications. Node.js, Nest.js, and Express are just a few tools in my backend arsenal that I deploy to create efficient, secure, and scalable systems.<br><br>🛠️ Fullstack Fusion:<br>Bringing both ends of the spectrum together, I specialize in the art of full-stack development. Seamlessly bridging the gap between user-facing interfaces and the intricate backend workings, I ensure the harmony and synchronization that result in a fluid and flawless user experience.<br><br>🚀 Continuous Learner:<br>In the ever-evolving realm of web development, I'm a fervent believer in the power of continuous learning. My GitHub repositories are a testament to my journey of exploration, experimentation, and growth. Join me as I dive into the latest technologies, share insights, and collaborate on innovative projects that push the boundaries of what's possible.<br><br>📈 Let's Collaborate:<br>Whether it's brainstorming new ideas, debugging a perplexing issue, or collaborating on exciting ventures, I'm always open to connecting with fellow developers, designers, and tech enthusiasts. Let's combine our strengths and create digital wonders that leave a mark on the virtual landscape.<br><br>So, feel free to explore my repositories, dive into my code, and connect with me on this exhilarating coding expedition. Together, we can turn lines of code into captivating experiences that resonate with users around the globe. 🌎 Let's shape the future of the web, one commit at a time. 🌟<br><br>Stay curious, keep coding, and never stop innovating! 🚀💻🎨</p>
-
-###
-
-<div align="center">
+<p align="center">
   <a href="https://www.linkedin.com/in/space-holder-js/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  <a href="https://portfolio3-0-luzy.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=spaceholderdjs&style=for-the-badge&color=blue" alt="Profile views"/>
+</p>
+
+---
+
+### 🚀 About Me
+
+Passionate **Full Stack Developer** with **5+ years** of experience crafting modern web applications. I specialize in building scalable, user-centric solutions that bridge beautiful frontends with robust backends.
+
+- 🌐 **Frontend Specialist**: React, Next.js, TypeScript
+- 💻 **Backend Architect**: Node.js, NestJS, Express
+- 🛠️ **Full Stack Craftsman**: End-to-end development & deployment
+- 🤝 **Open to Collaborate**: Let's build something amazing together!
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=spaceholderdjs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spaceholderdjs&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" alt="Top Languages"/>
 </div>
 
-###
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=spaceholderdjs&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=spaceholderdjs&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
+</div>
+
+---
+
+### 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=spaceholderdjs&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+</div>
+
+---
+
+### 🛠️ Tech Stack
+
+#### Frontend
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+</p>
+
+#### Backend
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.io"/>
+</p>
+
+#### Database
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+</p>
+
+#### Tools & DevOps
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" alt="Webpack"/>
+  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint"/>
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest"/>
+  <img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" alt="Storybook"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
+  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku"/>
+</p>
+
+---
+
+### 💼 What I Do
+
+```typescript
+const igor = {
+  role: "Full Stack Developer",
+  experience: "5+ years",
+  location: "Kyiv, Ukraine 🇺🇦",
+  code: ["JavaScript", "TypeScript", "HTML", "CSS", "SQL"],
+  
+  skills: {
+    frontend: ["React", "Next.js", "TypeScript", "Redux", "Responsive Design"],
+    backend: ["Node.js", "NestJS", "Express", "RESTful APIs", "WebSockets"],
+    databases: ["MongoDB", "PostgreSQL", "MySQL", "Firebase"],
+    tools: ["Git", "Docker", "Webpack", "Jest", "Storybook"],
+    design: ["Responsive Web Design", "UI/UX Principles", "Cross-browser Compatibility"]
+  },
+  
+  architecture: {
+    frontend: ["SPA", "SSR", "SSG", "PWA"],
+    backend: ["Microservices", "Monolithic", "RESTful", "Real-time"],
+    patterns: ["MVC", "MVVM", "Repository Pattern", "Dependency Injection"]
+  },
+  
+  currentFocus: "Building scalable web applications with modern tech stacks",
+  availableForHire: true,
+  openToCollaborate: true
+};
+```
+
+---
+
+### 🎯 Core Competencies
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="50" height="50" alt="Frontend"/>
+      <br><b>Frontend Development</b>
+      <br><br>
+      Building responsive, accessible, and performant user interfaces with modern frameworks and best practices
+    </td>
+    <td align="center" width="33%">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="50" height="50" alt="Backend"/>
+      <br><b>Backend Development</b>
+      <br><br>
+      Designing robust APIs, managing databases, and implementing secure server-side logic for scalable applications
+    </td>
+    <td align="center" width="33%">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="50" height="50" alt="DevOps"/>
+      <br><b>DevOps & Deployment</b>
+      <br><br>
+      Containerization, CI/CD pipelines, and cloud deployment for seamless production environments
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🌟 Highlights
+
+<table>
+  <tr>
+    <td>🎨</td>
+    <td><b>Pixel-Perfect Design</b></td>
+    <td>Transforming designs into responsive, cross-browser compatible interfaces</td>
+  </tr>
+  <tr>
+    <td>⚡</td>
+    <td><b>Performance Optimization</b></td>
+    <td>Building lightning-fast applications with optimized load times and smooth interactions</td>
+  </tr>
+  <tr>
+    <td>🔧</td>
+    <td><b>Clean Architecture</b></td>
+    <td>Writing maintainable, scalable code following SOLID principles and best practices</td>
+  </tr>
+  <tr>
+    <td>🔒</td>
+    <td><b>Security First</b></td>
+    <td>Implementing authentication, authorization, and secure data handling</td>
+  </tr>
+  <tr>
+    <td>🚀</td>
+    <td><b>Production Ready</b></td>
+    <td>Deploying robust applications with proper testing, monitoring, and CI/CD</td>
+  </tr>
+  <tr>
+    <td>📱</td>
+    <td><b>Mobile Responsive</b></td>
+    <td>Creating seamless experiences across all devices and screen sizes</td>
+  </tr>
+  <tr>
+    <td>🧪</td>
+    <td><b>Test-Driven Development</b></td>
+    <td>Ensuring code quality with comprehensive unit, integration, and e2e tests</td>
+  </tr>
+  <tr>
+    <td>🎯</td>
+    <td><b>Problem Solver</b></td>
+    <td>Tackling complex challenges with creative and efficient solutions</td>
+  </tr>
+</table>
+
+---
+
+### 📈 Development Approach
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Code_Quality-A+-%2344CC11?style=for-the-badge" alt="Code Quality"/>
+  <img src="https://img.shields.io/badge/Response_Time-Fast-%2344CC11?style=for-the-badge" alt="Response Time"/>
+  <img src="https://img.shields.io/badge/Collaboration-Excellent-%2344CC11?style=for-the-badge" alt="Collaboration"/>
+</p>
+
+<details>
+<summary><b>🔍 My Development Philosophy</b></summary>
+<br>
+
+- **User-Centric Design**: Always keeping the end-user experience at the forefront
+- **Agile Methodology**: Iterative development with continuous feedback and improvement
+- **Clean Code**: Writing self-documenting, maintainable code that others can easily understand
+- **Best Practices**: Following industry standards and staying updated with modern development trends
+- **Team Collaboration**: Strong communication skills and experience working in cross-functional teams
+- **Problem Solving**: Analytical thinking and creative approaches to technical challenges
+
+</details>
+
+<details>
+<summary><b>📚 Technical Expertise</b></summary>
+<br>
+
+**Frontend Mastery**
+- Advanced React patterns (Hooks, Context, HOCs, Render Props)
+- State management with Redux, Redux Toolkit, and Context API
+- Server-side rendering with Next.js
+- Modern CSS (Flexbox, Grid, CSS-in-JS, Tailwind)
+- Performance optimization and lazy loading
+
+**Backend Proficiency**
+- RESTful API design and implementation
+- Real-time communication with WebSockets
+- Database design and optimization
+- Authentication & authorization (JWT, OAuth)
+- Error handling and logging
+
+**DevOps Knowledge**
+- Docker containerization
+- CI/CD pipelines
+- Cloud deployment (Heroku, Vercel, AWS)
+- Version control with Git
+- Monitoring and debugging
+
+</details>
+
+---
+
+### 📫 Let's Connect!
+
+I'm always excited to collaborate on innovative projects, discuss new opportunities, or just chat about tech!
+
+<p align="center">
+  <a href="https://portfolio3-0-luzy.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐_Visit_Portfolio-FF5722?style=for-the-badge&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/space-holder-js/">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="80" height="80" alt="Handshake"/>
+</div>
+
+<p align="center">
+  <i>💡 "Turning ideas into reality, one commit at a time."</i>
+  <br><br>
+  <img src="https://img.shields.io/badge/Status-Available_for_opportunities-success?style=flat-square" alt="Status"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer"/>
+</p>
