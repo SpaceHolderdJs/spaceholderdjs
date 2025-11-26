@@ -41,11 +41,25 @@ Passionate **Full Stack Developer** with **5+ years** of experience crafting mod
 
 ---
 
-### 📈 Contribution Graph
+### ⚡ Coding Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=spaceholderdjs&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+  
+| 🎯 Focus Areas | 💪 Expertise Level |
+|:---|:---|
+| Frontend Development | ████████████████████ 100% |
+| Backend Development | ███████████████████░ 95% |
+| DevOps & Deployment | ████████████████░░░░ 80% |
+| Database Management | ███████████████████░ 95% |
+| Testing & Quality | ██████████████████░░ 90% |
+
 </div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Commits-1000+-blue?style=for-the-badge" alt="Commits"/>
+  <img src="https://img.shields.io/badge/PRs-500+-green?style=for-the-badge" alt="Pull Requests"/>
+  <img src="https://img.shields.io/badge/Projects-50+-orange?style=for-the-badge" alt="Projects"/>
+</p>
 
 ---
 
@@ -128,20 +142,20 @@ const igor = {
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="50" height="50" alt="Frontend"/>
-      <br><b>Frontend Development</b>
+      <h3>💻</h3>
+      <b>Frontend Development</b>
       <br><br>
       Building responsive, accessible, and performant user interfaces with modern frameworks and best practices
     </td>
     <td align="center" width="33%">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="50" height="50" alt="Backend"/>
-      <br><b>Backend Development</b>
+      <h3>⚙️</h3>
+      <b>Backend Development</b>
       <br><br>
       Designing robust APIs, managing databases, and implementing secure server-side logic for scalable applications
     </td>
     <td align="center" width="33%">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="50" height="50" alt="DevOps"/>
-      <br><b>DevOps & Deployment</b>
+      <h3>🚀</h3>
+      <b>DevOps & Deployment</b>
       <br><br>
       Containerization, CI/CD pipelines, and cloud deployment for seamless production environments
     </td>
@@ -261,7 +275,7 @@ I'm always excited to collaborate on innovative projects, discuss new opportunit
 </p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="80" height="80" alt="Handshake"/>
+  <h2>🤝</h2>
 </div>
 
 <p align="center">
