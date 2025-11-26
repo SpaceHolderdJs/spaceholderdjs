@@ -27,16 +27,12 @@ Passionate **Full Stack Developer** with **5+ years** of experience crafting mod
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=spaceholderdjs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spaceholderdjs&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=spaceholderdjs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spaceholderdjs&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=320" height="180" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=spaceholderdjs&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=spaceholderdjs&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
+  <img src="https://streak-stats.demolab.com/?user=spaceholderdjs&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 <p align="center">
@@ -293,6 +289,18 @@ I'm always excited to collaborate on innovative projects, discuss new opportunit
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer"/>
+<div align="center">
+  
+### ⭐ Show some love by starring repositories you find interesting! ⭐
+
+<p>
+  <img src="https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge" alt="Made with love"/>
+  <img src="https://img.shields.io/badge/Built%20with-TypeScript-blue?style=for-the-badge&logo=typescript" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Powered%20by-Coffee-brown?style=for-the-badge&logo=buy-me-a-coffee" alt="Coffee"/>
 </p>
+
+<p>
+  <sub>© 2025 Igor Sergienko. All rights reserved.</sub>
+</p>
+
+</div>
