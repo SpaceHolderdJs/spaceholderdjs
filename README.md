@@ -27,12 +27,12 @@ Passionate **Full Stack Developer** with **5+ years** of experience crafting mod
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=spaceholderdjs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spaceholderdjs&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=320" height="180" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=spaceholderdjs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spaceholderdjs&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=320" height="180"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=spaceholderdjs&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=spaceholderdjs&theme=tokyonight&hide_border=true"/>
 </div>
 
 <p align="center">
@@ -291,15 +291,11 @@ I'm always excited to collaborate on innovative projects, discuss new opportunit
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Separator"/>
-
 <p>
   <img src="https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge" alt="Made with love"/>
   <img src="https://img.shields.io/badge/Built%20with-TypeScript-blue?style=for-the-badge&logo=typescript" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/Powered%20by-Coffee-brown?style=for-the-badge&logo=buy-me-a-coffee" alt="Coffee"/>
 </p>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Separator"/>
 
 <p>
   <sub>© 2025 Igor Sergienko. All rights reserved.</sub>
