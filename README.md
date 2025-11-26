@@ -290,14 +290,16 @@ I'm always excited to collaborate on innovative projects, discuss new opportunit
 ---
 
 <div align="center">
-  
-### ⭐ Show some love by starring repositories you find interesting! ⭐
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Separator"/>
 
 <p>
   <img src="https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge" alt="Made with love"/>
   <img src="https://img.shields.io/badge/Built%20with-TypeScript-blue?style=for-the-badge&logo=typescript" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/Powered%20by-Coffee-brown?style=for-the-badge&logo=buy-me-a-coffee" alt="Coffee"/>
 </p>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Separator"/>
 
 <p>
   <sub>© 2025 Igor Sergienko. All rights reserved.</sub>
