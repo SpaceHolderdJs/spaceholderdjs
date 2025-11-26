@@ -18,7 +18,7 @@
 Passionate **Full Stack Developer** with **5+ years** of experience crafting modern web applications. I specialize in building scalable, user-centric solutions that bridge beautiful frontends with robust backends.
 
 - 🌐 **Frontend Specialist**: React, Next.js, TypeScript
-- 💻 **Backend Architect**: Node.js, NestJS, Express
+- 💻 **Backend Architect**: Node.js, Go, NestJS, Express
 - 🛠️ **Full Stack Craftsman**: End-to-end development & deployment
 - 🤝 **Open to Collaborate**: Let's build something amazing together!
 
@@ -38,6 +38,12 @@ Passionate **Full Stack Developer** with **5+ years** of experience crafting mod
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=spaceholderdjs&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
 </div>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/spaceholderdjs?style=for-the-badge&logo=github&label=Followers&color=blue" alt="Followers"/>
+  <img src="https://img.shields.io/badge/Joined-2020-green?style=for-the-badge" alt="Joined"/>
+  <img src="https://img.shields.io/badge/Experience-5%2B%20Years-orange?style=for-the-badge" alt="Experience"/>
+</p>
 
 ---
 
@@ -79,6 +85,7 @@ Passionate **Full Stack Developer** with **5+ years** of experience crafting mod
 #### Backend
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/>
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
   <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.io"/>
@@ -113,11 +120,11 @@ const igor = {
   role: "Full Stack Developer",
   experience: "5+ years",
   location: "Kyiv, Ukraine 🇺🇦",
-  code: ["JavaScript", "TypeScript", "HTML", "CSS", "SQL"],
+  code: ["JavaScript", "TypeScript", "Go", "HTML", "CSS", "SQL"],
   
   skills: {
     frontend: ["React", "Next.js", "TypeScript", "Redux", "Responsive Design"],
-    backend: ["Node.js", "NestJS", "Express", "RESTful APIs", "WebSockets"],
+    backend: ["Node.js", "Go", "NestJS", "Express", "RESTful APIs", "WebSockets"],
     databases: ["MongoDB", "PostgreSQL", "MySQL", "Firebase"],
     tools: ["Git", "Docker", "Webpack", "Jest", "Storybook"],
     design: ["Responsive Web Design", "UI/UX Principles", "Cross-browser Compatibility"]
